@@ -1,5 +1,2 @@
-## SCT1
+hoo yee
 
-# opleiding Game Development op Mediacollege Amsterdam
-
-## groeten van jelle
